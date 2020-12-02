@@ -9,5 +9,6 @@ def key_for_min_value(name_hash)
     elsif(value<out)
       out = value
     end
-  return out
+  end
+ return out
 end
